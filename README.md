@@ -9,4 +9,4 @@ The main take away here is the footie.lua file, which needs some house cleaning,
 
 This script has been used in the generation of the album <a href="https://ululo.bandcamp.com/album/iuvante" target="_blank">iuvante</a>
 
-<img src="[/image/aFoot.jpg](https://ululo.co/image/aFoot.jpg)" width="300" height="100%">
+<img src="https://ululo.co/image/aFoot.jpg" width="300" height="100%">
